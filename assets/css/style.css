@@ -301,7 +301,7 @@ html,body{
     justify-content: center;
     align-items: center;
 	position: relative;
-	background: url(../../assets/images/home/banner.jpg)no-repeat;
+	background: url(C:\Users\meet0\online-ticket-booking\assets\images\gallary)no-repeat;
 	background-size: cover;
 	background-position: center;
 	min-height: 1000px;
@@ -880,6 +880,7 @@ html,body{
     -moz-transition:.5s; 
     -ms-transition:.5s; 
     -o-transition:.5s;
+ 
     transition: .5s;
 }
 .single-package-item-txt{
